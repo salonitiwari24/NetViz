@@ -48,9 +48,6 @@ We used **Seaborn and Matplotlib** to explore the dataset.
 ### Heatmap: Correlation (only numerical fields)
 ![Correlation](Screenshots/Heatmap_Correlation.png)
 
-### Pair Plot: Release Year & Duration
-![Release Year & Duration](Screenshots/Pair_Plot_Release_Year_and_Duration.png)
-
 ### Pie Chart: Distribution of Content Type
 ![Distribution of Content Type](Screenshots/Pie_Chart_Distribution_of_Content_Type.png)
 
