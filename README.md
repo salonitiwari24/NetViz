@@ -22,38 +22,38 @@ We used **Seaborn and Matplotlib** to explore the dataset.
 
 ## 📌 Plots
 ### Count of Movies vs TV Shows
-![Movies vs TV Shows]("Screenshots\Count_of_Movies_vs_TV_Shows.png")
+![Movies vs TV Shows](Screenshots/Count_of_Movies_vs_TV_Shows.png)
 
 ### Distribution of Release Years
-![Distribution of Release Years]("Screenshots\Distribution_of_Release_Years.png")
+![Distribution of Release Years](Screenshots/Distribution_of_Release_Years.png)
 
 ### Ratings Distribution
-![Ratings Distribution]("Screenshots\Ratings_Distribution.png")
+![Ratings Distribution](Screenshots/Ratings_Distribution.png)
 
 ### Top 10 Countries by Content
-![Countries by Content]("Screenshots\Top_10_Countries_by_Content.png")
+![Countries by Content](Screenshots/Top_10_Countries_by_Content.png)
 
 ### Release Year vs Type
-![Release Year vs Type]("Screenshots\Release_Year_vs_Type.png")
+![Release Year vs Type](Screenshots/Release_Year_vs_Type.png)
 
 ### Violin Plot: Release Year by Type
-![Release Year by Type]("Screenshots\Violin_Plot_Release_Year_by_Type.png")
+![Release Year by Type](Screenshots/Violin_Plot_Release_Year_by_Type.png)
 
 ### Scatter Plot: Release Year vs Duration (Movies only, numeric duration)
-![Release Year vs Duration]("Screenshots\Scatter_Plot_Release_Year_vs_Duration.png)
+![Release Year vs Duration](Screenshots/Scatter_Plot_Release_Year_vs_Duration.png)
 
 ### Bar Plot: Average Duration by Rating (Movies only)
-![Average Duration by Rating]("Screenshots\Bar_Plot_Average_Duration_by_Rating.png")
+![Average Duration by Rating](Screenshots/Bar_Plot_Average_Duration_by_Rating.png)
 
 ### Heatmap: Correlation (only numerical fields)
-![Correlation]("Screenshots\Heatmap_Correlation.png)
+![Correlation](Screenshots/Heatmap_Correlation.png)
 
 ### Pair Plot: Release Year & Duration
-![Release Year & Duration]("Screenshots\Pair_Plot_Release_Year_&_Duration.png")
+![Release Year & Duration](Screenshots/Pair_Plot_Release_Year_and_Duration.png)
 
 ### Pie Chart: Distribution of Content Type
-![Distribution of Content Type]("Screenshots\Pie_Chart_Distribution_of_Content_Type.png")
- 
+![Distribution of Content Type](Screenshots/Pie_Chart_Distribution_of_Content_Type.png)
+
 ---
 
 ## 📝 Insights
